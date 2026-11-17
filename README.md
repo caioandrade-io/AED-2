@@ -55,8 +55,7 @@ KEY|on_sentry_list|true
 ```
 
 ## Datasets
-- **Asteroides (NASA):** disponível no e-Disciplinas. Colocar em `dados/asteroids.csv`.
-- **Dataset do grupo:** (nome e link de download)
-
+- **Asteroides (NASA):
+- **Dataset do grupo:** CENIPA - Ocorrências Aeronáuticas na Aviação Civil Brasileira 
 ## Métricas
 O programa imprime métricas no formato `NOME=VALOR` (ex: `BUILD_MS`, `ROTATIONS`, `SEARCH_MS`, `FETCH_MS`), usadas na análise experimental.
